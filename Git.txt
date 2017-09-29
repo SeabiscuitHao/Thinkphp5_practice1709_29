@@ -1,0 +1,15 @@
+git init
+
+git status//²é¿´
+
+git clone µØÖ·
+
+
+git init
+
+git add .
+
+git commit -m "new"
+
+git push origin master
+
